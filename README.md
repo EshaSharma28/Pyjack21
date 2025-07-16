@@ -11,7 +11,7 @@ This is a simple Blackjack game built with Python that supports two interfaces:
 - Ace logic: counts as 1 or 11 intelligently
 - Dealer AI that draws until 17+
 - GUI version with card rendering
-- Basic betting system (terminal version)
+- Basic betting system 
 - Cross-platform (Windows, macOS, Linux)
 
 ## 💻 Technologies Used
